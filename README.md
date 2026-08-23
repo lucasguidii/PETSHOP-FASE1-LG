@@ -38,7 +38,7 @@ Abra o arquivo `index.html` em um navegador ou acesse o endereço publicado no G
 
 ## Autor
 
-[SEU NOME]
+Lucas Guidi Leite
 
 ## Disciplina
 
