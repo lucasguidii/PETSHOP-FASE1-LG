@@ -14,4 +14,4 @@ TECNOLOGIAS:
 Somente HTML5. Não foram utilizados CSS, Bootstrap ou JavaScript.
 
 AUTOR:
-[SEU NOME]
+Lucas Guidi Leite
