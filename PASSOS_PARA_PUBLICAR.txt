@@ -1,0 +1,14 @@
+PASSOS PARA PUBLICAR NO GITHUB E GITHUB PAGES
+
+1. Crie um repositório público no GitHub com o nome: petshop-fase1
+2. Envie todos os arquivos e a pasta assets deste projeto para o repositório.
+3. No repositório, acesse Settings > Pages.
+4. Em Build and deployment, escolha Deploy from a branch.
+5. Selecione a branch main e a pasta /(root), depois salve.
+6. Aguarde a publicação do GitHub Pages.
+7. O link do repositório deverá ficar parecido com:
+   https://github.com/SEU-USUARIO/petshop-fase1
+8. O link do GitHub Pages deverá ficar parecido com:
+   https://SEU-USUARIO.github.io/petshop-fase1/
+9. Substitua [SEU NOME] nos arquivos HTML, README e AJUDA.txt pelo seu nome.
+10. Preencha o seu nome e os dois links reais no template da PUCRS e salve em PDF.

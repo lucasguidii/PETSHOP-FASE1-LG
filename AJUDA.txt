@@ -1,0 +1,17 @@
+PETSHOP AMIGO FIEL - ARQUIVO DE AJUDA
+
+Este projeto corresponde à Fase 1 da disciplina Fundamentos de Sistemas Web.
+
+FUNCIONALIDADES:
+1. A página index.html apresenta o petshop e links para as demais páginas.
+2. A página produtos.html mostra seis produtos, sendo dois de cada categoria exigida: acessórios, rações não perecíveis e higiene e limpeza.
+3. Cada produto possui imagem, descrição e valor.
+4. A página servicos.html mostra banho e banho e tosa, com alternativas com e sem tele-busca, descrição e valor.
+5. A página ajuda.html explica como navegar e quais funcionalidades existem na primeira fase.
+6. Todas as páginas possuem cabeçalho, navegação, corpo e rodapé.
+
+TECNOLOGIAS:
+Somente HTML5. Não foram utilizados CSS, Bootstrap ou JavaScript.
+
+AUTOR:
+[SEU NOME]
